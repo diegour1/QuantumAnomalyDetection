@@ -19,7 +19,7 @@ A common need when analyzing datasets is to find which observations deviates con
 
 *Can we build a quantum circuit to perform Anomaly Detection?*
 
-### **Our Approach**
+### **Our Approach:**
 
 Anomaly Detection based on Density Estimation:
 
@@ -31,7 +31,7 @@ Quantum Density Estimation:
 *   Combine Density Matrices with Random Fourier Features to perform Density Estimation.
 *   Propose a quantum circuit to estimate expected values of density matrices.
 
-### **Main contributions**
+### **Main contributions:**
 
 *   We developed a new method for Anomaly Detection in quantum computers.
 *   We implemented the method in a quantum circuit and showed that it’s a feasible approach.
