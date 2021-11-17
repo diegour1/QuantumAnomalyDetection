@@ -26,7 +26,7 @@ Anomaly Detection based on Density Estimation:
 
 Quantum Density Estimation:
 
-*   Combine Density Matrices with RFF [Rahimi2007] to perform Density Estimation [González2021]
+*   Combine Density Matrices with Random Fourier Features to perform Density Estimation.
 *   Propose a quantum circuit to estimate expected values of density matrices.
 
 **Main contributions**
