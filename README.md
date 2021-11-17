@@ -1,10 +1,6 @@
 # Quantum Anomaly Detection with Quantum Density Estimation
 
-### Density Estimation with Qubits
-
-
-
-### Qiskit Hackathon Global 2021
+Here we present our project for the Qiskit Hackathon Global 2021
 
 ---
 
