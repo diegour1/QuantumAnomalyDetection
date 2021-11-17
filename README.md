@@ -1,4 +1,4 @@
-# Quantum Anomaly Detection with Quantum Density Estimation
+# Anomaly Detection & Density Estimation with Density Matrices
 
 #### Here we present our project for the Qiskit Hackathon Global 2021
 
