@@ -16,6 +16,8 @@ Oscar Alberto Bustos B. - oabustosb@unal.edu.co
 
 Anomaly Detection: 
 
+For Qiskit Fall Fest Hackathon 2021, we proposed a quantum protocol to compute the expected value of any nxn density matrix. In this project, we improve this quantum circuit to develop a new method for anomaly detection. The method works by estimating the probability density function (pdf) of normal data and classifying as anomalies new data which lies below a probability threshold in the pdf.
+
 *Can we build a quantum circuit to perform Anomaly Detection?*
 
 ### **Our Approach:**
