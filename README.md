@@ -15,7 +15,6 @@ Oscar Alberto Bustos B. - oabustosb@unal.edu.co
 ### **The problem:**
 
 Anomaly Detection: 
-A common need when analyzing datasets is to find which observations deviates considerably from others. Such instances are known as anomalies or outliers, and the goal of anomaly detection (AD) is to detect those atypical or irregular data, generally in unsupervised scenarios. AD has many applications across a wide variety of domains, including intrusion or fraud detection in cybersecurity, industrial monitoring, disease detection for medical diagnosis and rare event detection in science.
 
 *Can we build a quantum circuit to perform Anomaly Detection?*
 
