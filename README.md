@@ -2,6 +2,8 @@
 
 #### Here we present our project for the Qiskit Hackathon Global 2021
 
+The preprint of the work with additional experiments can be found at https://arxiv.org/abs/2201.10006
+
 ---
 
 ### **Our Group:**
