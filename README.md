@@ -1,4 +1,7 @@
-# Anomaly Detection & Density Estimation with Density Matrices
+# Computing expectation values of adaptive Fourier density matrices for quantum anomaly detection in NISQ devices
+
+**Abstract** This article presents a novel classical-quantum anomaly detection model based on the expected values of density matrices and a new data embedding called adaptive Fourier features. The method works by estimating a probability density function of training data and classifying new samples as anomalies if they lie below a certain probability density threshold. As a core subroutine, we present a new method to estimate the expected value of a density matrix based on its spectral decomposition on a quantum computer. The anomaly detection model is tested with pure and mixed states and both adaptive and random Fourier features on a synthetic data set for density estimation and on a widely used data set for anomaly detection; results show the superior performance of adaptive Fourier features for density estimation and anomaly detection, and of mixed states for density estimation. An important finding of this work is to show that it is possible to perform anomaly detection with high performance on noise intermediate-scale quantum computers. 
+
 
 #### Here we present our project for the Qiskit Hackathon Global 2021
 
