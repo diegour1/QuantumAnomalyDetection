@@ -4,7 +4,7 @@
 
 Implementation of the preprint
 
-- D. H. Useche, O. A. Bustos-Brinez, J. A. Gallego, and F. A. González, “Computing expectation values of adaptive Fourier density matrices for quantum anomaly detection in NISQ devices,” 1 2022. Available: https://arxiv.org/abs/2201.10006v1
+- D. H. Useche, O. A. Bustos-Brinez, J. A. Gallego, and F. A. González, “Computing expectation values of adaptive Fourier density matrices for quantum anomaly detection in NISQ devices,” 1 2022. Available: https://arxiv.org/abs/2201.10006v2
 
 ## Abstract 
 
