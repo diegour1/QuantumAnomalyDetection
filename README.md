@@ -16,11 +16,11 @@ The modified Cardiotography data set can be downloaded from the following link:
 
 - http://odds.cs.stonybrook.edu/cardiotocogrpahy-dataset/
 
+---
+
 #### Here we present our project for the Qiskit Hackathon Global 2021
 
-The preprint of the work with additional experiments can be found at https://arxiv.org/abs/2201.10006
-
----
+Part of this preprint was presented in the Qiskit Hackathon Global 2021
 
 ### **Our Group:**
 
